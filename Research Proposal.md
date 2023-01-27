@@ -1,13 +1,4 @@
 # Research Proposal
-
-* The research proposal is a well-written, well-organized, and grammatically-correct narrative (e.g. not a bulleted list) describing:
-* What are the general DS topic areas (e.g. conceptual/theoretical) your eventual project will fall within
-* What are the general DS skills (e.g. programming languages, cloud platforms, frameworks, libraries, APIs, algorithms, etc.) you will need to undertake your eventual project
-* Which of these topics/skills do you already know
-* Which of these topics/skills will you need to learn
-* How you will learn the necessary topics/skills (e.g. online course(s), tutorial series, book(s), etc.) and what appropriate “proof of completion” looks like (e.g. badge(s), certificate(s), demoing completion of a project from a book, etc.)
-* Note how many hours will it take to complete, targeting at least (6 to 9 hours a week) * (4 weeks) = 24 - 36 hours
-* Note that the project's research phase covers the first ~4 weeks of the semester. Towards the end of the research phase, you will write up your detailed project proposal. Until then, you do not need to commit to the exact scope/details of your project.
   
 ## Intro
 
@@ -17,10 +8,24 @@ Although I have not decided the exact project I want to complete, the subject of
 
 ## Data Science Category (Theoretical and conceptual)
 
+The research will fall into the category of music generation (synthesis).
+
 ## Skills Required
+
+* Knowledge of MIDI
+* Knowledge of basic music structure and patterns
+* Knowledge of neural networks
+  * training, tweaking, etc.
+* Much more
 
 ### Current Skills
 
+* Knowledge of MIDI and advanced music structure
+
 ### Skills to-be-learned
 
+The main concept that I need to learn is how MIDI can be implemented into a Neural Network, or other prediction algorithms.
+
 ## OSRS GE Tracking Project Idea
+
+This is another project that I might also pursue reaching. The Grand Exchange (GE), is a way for million of players to trade billions of items daily. Every trade and quantity is stored by both the community and developers. I would research the possibility of predicting the price of each of the thousand of items in the game that can be traded. There are a few community managed APIs that can be used to collect both live (real-time) data as well as more than 5 years of historical data. 
