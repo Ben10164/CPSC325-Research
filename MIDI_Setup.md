@@ -50,4 +50,6 @@
 ## Notes
 
 * I tried doing this in a docker container, but it did not work.
-  * I ran into alot of errors with the installation of 
+  * I ran into a lot of errors with the installation of python-rtmidi in the container.
+    * Wrong g++, wrong python, etc...
+    * Long story short: Python-rtmidi is very old and it is a miracle that it works on my Mac without any hassle.
