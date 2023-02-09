@@ -9,7 +9,7 @@ LilyPond allows for direct control over all 127 MIDI modular controls (pitch ben
 LilyPond has very odd syntax.  
 Here is an example of Clair De Lune:
 
-```
+```ly
 trackBchannelB = \relative c {
   \voiceThree
   r4 <f'' aes >2 <des f > <ees c >8 <f des > <c ees >8*7 

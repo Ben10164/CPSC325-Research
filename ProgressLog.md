@@ -5,6 +5,7 @@ This repository will constantly be updated throughout the week/weekend showing m
 
 * [MIDI Setup](#midi-setup)
 * [LilyPond Experimentation](#lilypond-experimentation)
+* [LilyPond Integration](#lilypond-integration)
 
 ## MIDI Setup
 
@@ -13,3 +14,7 @@ This repository will constantly be updated throughout the week/weekend showing m
 ## LilyPond Experimentation
 
 [See Intro_To_LilyPond.md](1-LilyPond/Intro_To_LilyPond.md)
+
+## LilyPond Integration
+
+[See Integration_Investigation.md](2-Integrating_Python/Integration_Investigation.md)
