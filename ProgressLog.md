@@ -8,8 +8,8 @@ This repository will constantly be updated throughout the week/weekend showing m
 
 ## MIDI Setup
 
-[See MIDI_Setup.md](MIDI_Setup.md)
+[See MIDI_Setup.md](0-MIDI_Testing/MIDI_Setup.md)
 
 ## LilyPond Experimentation
 
-[See Intro_To_LilyPond.md](Intro_To_LilyPond.md)
+[See Intro_To_LilyPond.md](1-LilyPond/Intro_To_LilyPond.md)
