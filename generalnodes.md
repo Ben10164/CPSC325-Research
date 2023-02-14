@@ -18,3 +18,6 @@
     * Nottingham Dataset <https://github.com/jukedeck/nottingham-dataset>
     * ASAP Dataset <https://github.com/fosfrancesco/asap-dataset>
     * lead-sheet Dataset <https://github.com/wayne391/lead-sheet-dataset>
+
+
+The Los-Angeles-MIDI-Dataset is filled with multi-track midi files! ![MultiTrack](Multitrack.png)

@@ -34,3 +34,5 @@ abs2rel(doc)
 print(doc.text())
 
 
+# Okay, so now time for taking some midi input?
+
