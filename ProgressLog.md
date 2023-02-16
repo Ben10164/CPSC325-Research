@@ -7,6 +7,7 @@ This repository will constantly be updated throughout the week/weekend showing m
 * [LilyPond Experimentation](#lilypond-experimentation)
 * [LilyPond Integration](#lilypond-integration)
 * [Quickly](#quickly)
+* [Magenta](#magenta)
 
 ## MIDI Setup
 
@@ -23,3 +24,7 @@ This repository will constantly be updated throughout the week/weekend showing m
 ## Quickly
 
 [See Quickly.md](3-Python_LilyPond/Quickly.md)
+
+## Magenta
+
+[See Magenta.ipynb](4-Magenta/Magenta.ipynb)
