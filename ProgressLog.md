@@ -8,6 +8,7 @@ This repository will constantly be updated throughout the week/weekend showing m
 * [LilyPond Integration](#lilypond-integration)
 * [Quickly](#quickly)
 * [Magenta](#magenta)
+* [Mid-February](#mid-february)
 
 ## MIDI Setup
 
@@ -28,3 +29,9 @@ This repository will constantly be updated throughout the week/weekend showing m
 ## Magenta
 
 [See Magenta.ipynb](4-Magenta/Magenta.ipynb)
+
+## Mid-February
+
+The majority of my time spent during the week of Tuesday the 21st was preparing the research presentation/tutorial
+
+[Link to repo](https://github.com/Ben10164/MidiDemo)
