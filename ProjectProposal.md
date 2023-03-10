@@ -33,7 +33,7 @@ I am familiar with data visualization and aspects of the game (i.e. ways to dist
 
 ### What are the data source(s), how are they timely, and how are you going to ingest them
 
-The data sources come from both JaGeX and a community source from the OSRS Wiki. JaGeX updates the prices daily, whereas the Wiki uses crowdsourcing from a popular client RuneLite to get access to more specific trades in real time! [Link to the Wiki's article on their RealTime Data API]<https://oldschool.runescape.wiki/w/RuneScape:Real-time_Prices>. Adding onto the realtime data of item transfers, I also plan (stretch goal) to incorporate the weekly update blogs into the predictions of the program. This will involve processing the blog through NLP and extracting item names.
+The data sources come from both JaGeX and a community source from the OSRS Wiki. JaGeX updates the prices daily, whereas the Wiki uses crowdsourcing from a popular client RuneLite to get access to more specific trades in real time! [Link to the Wiki's article on their RealTime Data API](https://oldschool.runescape.wiki/w/RuneScape:Real-time_Prices). Adding onto the realtime data of item transfers, I also plan (stretch goal) to incorporate the weekly update blogs into the predictions of the program. This will involve processing the blog through NLP and extracting item names.
 
 ### What are your major analyses and anticipated findings/results
 
