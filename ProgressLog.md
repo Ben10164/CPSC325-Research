@@ -59,4 +59,4 @@ The majority of my time spent during the week of Tuesday the 21st was preparing 
     * lead-sheet Dataset <https://github.com/wayne391/lead-sheet-dataset>
 
 
-The Los-Angeles-MIDI-Dataset is filled with multi-track midi files! ![MultiTrack](Multitrack.png)
+The Los-Angeles-MIDI-Dataset is filled with multi-track midi files! ![MultiTrack](images/Multitrack.png)
