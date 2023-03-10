@@ -2134,7 +2134,7 @@ trackC = <<
 
 trackDchannelA = {
   
-  \set Staff.instrumentName = "Debussy: "Clair de lune" from Suite bergamasque"
+  \set Staff.instrumentName = "Debussy: \"Clair de lune\" from Suite bergamasque"
   
 }
 
