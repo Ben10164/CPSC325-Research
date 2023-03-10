@@ -9,8 +9,9 @@ import ly.music.event
 import ly.music.items
 import ly.document
 
+# run `midi2ly Claire_de_Lune.mid`
 
-with open('LilyPond-Python/Clair_de_Lune.ly', 'r') as file:
+with open('Clair_de_Lune.ly', 'r') as file:
     data = file.read()
 
 # print(data)
