@@ -1,5 +1,7 @@
 # Intro to LilyPond
 
+`brew install lilypond`
+
 ## What is LilyPond?
 
 LilyPond is a programming language for bridging the gap between MIDI files and "readable" code.

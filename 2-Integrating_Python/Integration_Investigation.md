@@ -1,5 +1,8 @@
 # LilyPond in python?
 
+`brew install lilypond`
+`pip install python-ly`
+
 ## python-ly
 
 <https://pypi.org/project/python-ly/>

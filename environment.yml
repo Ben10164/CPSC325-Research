@@ -1,0 +1,27 @@
+name: CPSC325
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - bzip2=1.0.8=h3422bc3_4
+  - ca-certificates=2022.12.7=h4653dfc_0
+  - libffi=3.4.2=h3422bc3_5
+  - libsqlite=3.40.0=h76d750c_0
+  - libzlib=1.2.13=h03a7124_4
+  - mido=1.2.10=pyhd8ed1ab_0
+  - ncurses=6.3=h07bb92c_1
+  - openssl=3.0.8=h03a7124_0
+  - pip=23.0.1=pyhd8ed1ab_0
+  - python=3.8.16=h3ba56d0_1_cpython
+  - readline=8.1.2=h46ed386_0
+  - setuptools=67.6.0=pyhd8ed1ab_0
+  - tk=8.6.12=he1e0b03_0
+  - tzdata=2022g=h191b570_0
+  - wheel=0.38.4=pyhd8ed1ab_0
+  - xz=5.2.6=h57fd34a_0
+  - pip:
+      - parce==0.32.0
+      - python-ly==0.9.7
+      - python-rtmidi==1.4.9
+      - quickly==0.7.0
+prefix: /Users/benpuryear/miniconda3/envs/CPSC325
