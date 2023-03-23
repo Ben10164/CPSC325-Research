@@ -1,0 +1,3 @@
+# what is LilyPond?
+
+a really weird language...
